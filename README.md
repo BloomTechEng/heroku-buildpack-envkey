@@ -2,6 +2,8 @@
 
 Heroku buildpack for loading ENVKEY environment variables
 
+Original source: https://github.com/envkey/envkey-heroku-buildpack
+
 ## Usage
 
 ### Add the buildpack
